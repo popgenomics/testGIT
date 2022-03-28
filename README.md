@@ -14,9 +14,7 @@ git push -u origin main
 # 2. add/update new codes  
 ```
 touch pouet.py
-```
-
 git add pouet.py
 git commit -m "super"
 git push -u origin main
-
+```
