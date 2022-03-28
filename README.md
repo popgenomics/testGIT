@@ -16,4 +16,7 @@ git push -u origin main
 touch pouet.py
 ```
 
+git add pouet.py
+git commit -m "super"
+git push -u origin main
 
